@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a Senior Software Developer with a passion for
 
 ## 🚀 About Me
 
-- **🌱 Currently Exploring**: Advanced Laravel features, GraphQL, and cloud architecture.
+- **🌱 Currently Exploring**: Docker, GraphQL, and cloud architecture.
 - **👨‍💻 Expertise**: PHP, Laravel, JavaScript, MySQL, Server Management, Web Security.
 - **🌍 I Love**: Problem-solving, optimizing high-traffic systems, and building robust APIs.
 - **🎯 Career Goal**: Continuously improve as a software engineer and contribute to impactful projects.
